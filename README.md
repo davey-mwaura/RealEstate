@@ -9,7 +9,7 @@ HTML, CSS, JavaScript
 
 The website shows three important details the land size, the land price, and the location details of the property owned by the business. This will allow the business to showcase its wide variety of properties to its future customers when they land on the page. 
 
-# What is the process?
+# How does it work?
 
 The website uses a locally created API to keep track of data and it gives access to all properties owned by the company. 
 This allows you to easily input and access important information such as the property's location, size, and price of the lands owned using the form.
