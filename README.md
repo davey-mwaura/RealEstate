@@ -3,7 +3,7 @@
 This program is a tool that helps Real estate companies manage their data. It maintains a complete record of all properties owned by the company and tracks the properties that are bought and sold. This allows the company to efficiently manage its real estate portfolio and make informed decisions about their investments.
 
 # Languages
-HTML,CSS,JavaScript
+HTML, CSS, JavaScript
 
 # How is it used?
 
